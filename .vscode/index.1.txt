@@ -199,7 +199,6 @@
     <!-- ====Footer==== -->
     <footer class="page-footer">
         <div class="container">
-            <div class="page-footer-box">
                 <a class="page-footer-item" href="./index.html" target="_blank">Web
                     <span class="page-footer-part">Studio</span>
                 </a>
@@ -207,7 +206,6 @@
                     marketing &
                     growth solutions.
                 </p>
-            </div>
         </div>
     </footer>
 </body>

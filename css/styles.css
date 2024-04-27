@@ -43,20 +43,6 @@ address {
   font-style: normal;
 }
 
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
-
 .container {
   max-width: 1158px;
   padding-right: 15px;
@@ -235,6 +221,20 @@ address {
 
 /* Featura */
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
 .goal-container {
   padding-left: 16px;
   padding-right: 16px;
@@ -391,9 +391,6 @@ address {
 .page-footer {
   background: #2e2f42;
   padding: 100px 0;
-}
-
-.page-footer-box {
   display: block;
   justify-content: flex-start;
   padding-top: 100px;
