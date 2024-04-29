@@ -203,8 +203,7 @@
                     <span class="page-footer-part">Studio</span>
     </a>
     <p class="page-footer-text">Increase the flow of customers and sales for your business with digital
-                    marketing &
-                    growth solutions.
+                    marketing & growth solutions.
     </p>
     </div>
     </footer>
